@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Clock from './Clock';
 import Controls from './Controls';
-
+/* eslint-disable */
 class Timer extends Component {
   constructor(props){
     super(props);
@@ -42,7 +42,7 @@ class Timer extends Component {
       })
     }, 1000);
   }
-  
+
   handleStatusChange = (newStatus) => {
     this.setState({
       timerStatus: newStatus

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Clock from './Clock';
 import CountdownForm from './CountdownForm';
 import Controls from './Controls';
-
+/* eslint-disable */
 class Countdown extends Component {
   constructor(props){
     super(props);
