@@ -21,20 +21,20 @@
   justify-content: center;
 }
 
-.custombtn {
+.custombtn{
   display: inline-block;
   padding: .75rem 1rem;
 }
 
-.custombtn: first-child {
+.custombtn:first-child {
   margin-right: 1rem;
 }
 
-.homepage{
+.external-link{
   font-weight: bold;
 }
 
-.page-title {
+.page-title{
   margin: 2rem 0;
   text-align: center;
 }
