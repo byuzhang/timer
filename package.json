@@ -4,7 +4,6 @@
   "private": true,
   "homepage": "https://byuzhang.github.io/timer/",
   "devDependencies": {
-    "gh-pages": "^0.12.0",
     "react-scripts": "0.9.0"
   },
   "dependencies": {
