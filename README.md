@@ -4,7 +4,7 @@
 
 利用React框架完成的计时器应用。
 
-[Live Demo Here](https://byuzhang.github.io/timer/)
+[Live Demo Here](http://adaptable-button.surge.sh/)
 
 ### 主要工具:
 
@@ -19,4 +19,4 @@
 3. `npm install`
 4. `npm start`
 
-也可点击[这里](https://byuzhang.github.io/timer/)直接查看。
+也可点击[这里](http://adaptable-button.surge.sh/)直接查看。

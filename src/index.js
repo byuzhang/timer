@@ -8,10 +8,8 @@ import  './style/style.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/css/bootstrap-theme.css';
 
-const repo = `/${window.location.pathname.split('/')[1]}`;
-
 ReactDOM.render(
-  <Router history={browserHistory} basename={repo}>
+  <Router history={browserHistory}>
     <Route path='/' component={App}>
       <Route path='countdown' component={Countdown}/>
       <IndexRoute component={Timer}/>
