@@ -18,11 +18,11 @@ const Navigation = () => {
               <LinkContainer to='/countdown'><NavItem eventKey={2} >倒计时</NavItem></LinkContainer>
             </Nav>
             <Navbar.Text pullLeft>
-              Powered by <Navbar.Link href="https://github.com/byuzhang/timer/" target="_blank" className='external-link'>Timer</Navbar.Link>
+              Powered by <Navbar.Link href="https://github.com/icyfish/timer/" target="_blank" className='external-link'>Timer</Navbar.Link>
             </Navbar.Text>
 
             <Navbar.Text pullRight>
-              Created by <Navbar.Link href="https://byuzhang.github.io/me/" target="_blank" className='external-link'>Bingyu Zhang</Navbar.Link>
+              Created by <Navbar.Link href="https://icyfish.github.io/" target="_blank" className='external-link'>Bingyu Zhang</Navbar.Link>
             </Navbar.Text>
 
           </Navbar.Collapse>

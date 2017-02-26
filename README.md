@@ -4,7 +4,7 @@
 
 利用React框架完成的计时器应用。
 
-[Live Demo Here](http://adaptable-button.surge.sh/)
+[Live Demo Here](http://icyfish-timer.surge.sh/)
 
 ### 主要工具:
 
@@ -14,9 +14,9 @@
 
 ### 在本地查看:
 
-1. `git clone git@github.com:byuzhang/timer.git`
+1. `git clone git@github.com:icyfish/timer.git`
 2. `cd timer`
 3. `npm install`
 4. `npm start`
 
-也可点击[这里](http://adaptable-button.surge.sh/)直接查看。
+也可点击[这里](http://icyfish-timer.surge.sh/)直接查看。
