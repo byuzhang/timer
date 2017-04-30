@@ -22,7 +22,7 @@ const Navigation = () => {
             </Navbar.Text>
 
             <Navbar.Text pullRight>
-              Created by <Navbar.Link href="https://icyfish.github.io/" target="_blank" className='external-link'>Bingyu Zhang</Navbar.Link>
+              Created by <Navbar.Link href="https://icyfish.me/" target="_blank" className='external-link'>icyfish</Navbar.Link>
             </Navbar.Text>
 
           </Navbar.Collapse>
